@@ -1,2 +1,2 @@
 # dockerapp
-https://circleci.com/gh/CircleCI-Public/circleci-cli.svg?style=svg
+https://circleci.com/gh/dockerapp/circleci-cli.svg?style=svg
